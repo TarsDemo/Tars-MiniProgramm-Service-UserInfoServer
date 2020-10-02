@@ -111,4 +111,4 @@ module LifeService
         // int queryData(string sTableName, vector<string> sColumns, string sCondition, out vector<map<string, string>> sRsp);
     };
 
-}; 
+};

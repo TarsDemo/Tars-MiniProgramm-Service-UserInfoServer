@@ -1,3 +1,3 @@
 #!/bin/bash
 make
-./UserInfoServer --config=UserInfoServer.conf
+./UserInfoServer --config=config.conf
