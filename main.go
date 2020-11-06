@@ -7,7 +7,7 @@ import (
 	"github.com/TarsCloud/TarsGo/tars"
 	"github.com/TarsCloud/TarsGo/tars/util/rogger"
 
-	"LifeService"
+	"github.com/TarsDemo/Tars-MiniProgramm-Service-UserInfoServer/tars-protocol/LifeService"
 )
 
 // comm 定义communicator

@@ -5,7 +5,7 @@ import (
 
 	"github.com/TarsCloud/TarsGo/tars"
 
-	"LifeService"
+	"../tars-protocol/LifeService"
 )
 
 func main() {

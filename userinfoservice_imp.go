@@ -6,7 +6,7 @@ import (
 	"strconv"
 	"time"
 
-	"LifeService"
+	"github.com/TarsDemo/Tars-MiniProgramm-Service-UserInfoServer/tars-protocol/LifeService"
 )
 
 // UserInfoServiceImp servant implementation
