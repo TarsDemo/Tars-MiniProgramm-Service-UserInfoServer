@@ -76,7 +76,7 @@ Go to `TarsWeb->Operation->Deploy service`, and deploy the service according to 
 
 ### Publish Service
 
-Go to `TarsWeb->Services->LifeService->DataServer->Publish`, and
+Go to `TarsWeb->Services->LifeService->UserInfoServer->Publish`, and
 
 * Choose the node which you just deploy and click `publish node`.
 * click `upload release package` and choose the package you just built to upload.
